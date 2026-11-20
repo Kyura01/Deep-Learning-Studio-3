@@ -1,0 +1,2 @@
+kode,model,n_train,n_test,accuracy,f1_macro,train_time_s_cpu
+22583772,TF-IDF + regresi logistik,6000,500,0.712,0.6022364873850022,1.4626825369996368
